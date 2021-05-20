@@ -1,37 +1,23 @@
-<h1 align = "center"> Olá 👋, Eu sou Danilo Akira Okuda </h1>
-<h3 align = "center"> Entusiasta a desenvolvedor </h3>
+<h1 align="center">Olá 👋, Eu sou Danilo Akira Okuda</h1>
+<h3 align="center">Entusiasta a Desenvolvedor</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=daniloakira&label=Profile%20views&color=0e75b6&style=flat" alt="daniloakira" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniloakira" alt="daniloakira" /></a> </p>
 
-- 🌱 Eu Estou Aprendendo ** Java e Web Design **
+- 🌱 Eu Estou Aprendendo **Java e Web Design**
 
 - 📫 Como me Encontrar **danilo_akira@hotmail.com**
 
-<h3 align = "left"> Conecte-se comigo: </h3>
-<p align = "left">
-<a href="https://linkedin.com/in/danilo-okuda" target="blank"> <img align = "center" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "alt =" danilo-okuda "height =" 30 "width =" 70 "/> </a>
-</ p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/danilo-okuda" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="danilo-okuda" height="30" width="100" /></a>
+</p>
 
-<h3 align = "left"> Idiomas e ferramentas: </h3>
-<p align = "left"> <a href="https://getbootstrap.com" target="_blank"> <img src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"alt =" bootstrap "width =" 70"height =" 30 "/> </a>
-  <a href =" https://www.cprogramming.com/ "target =" _blank "> <img src ="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"alt =" c "width =" 70 "height =" 40 "/ > </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white "alt =" csharp "width =" 70 "height =" 40 "/> </a>
-  <a href =" https: // www. w3schools.com/css/ "target =" _ blank "> <img src =" https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "alt =" css3 "width =" 70 "height =" 40 "/> </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank"> <img src =" https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white "alt =" dotnet "width =" 70 "height =" 40 "/> </a>
-  <a href = "https: // git-scm.com / "target =" _ blank "> <img src =" https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"alt =" git "largura =" 70 "altura = "40" /> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"alt =" html5 "width =" 70 "height =" 40 "/> </a>
-  <a href =" https: //www.adobe. com / in / products / illustrator.html "target =" _ blank "> <img src =" https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"alt =" illustrator "width =" 70 "altura =" 40 "/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"alt =" javascript "width =" 70 "height =" 40 "/> </a>
-  <a href =" https: //www.linux. org / "target =" _ blank "> <img src =" https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black "alt =" linux "width =" 70 " height = "40" /> </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src = "https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"alt =" mssql "width =" 70 "height =" 40 "/> </a>
-  <a href =" https://www.mysql.com/ "target = "_ blank"> <img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt = "mysql" width = "70" height = "40" /> </a> 
-  <a href="https://www.php.net" target="_blank"> <img src = "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"alt =" php "width =" 70 "height =" 40 "/> </a> 
-  <a href =" https://www.postgresql.org "target =" _blank "> <img src = "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt = "postgresql" width = "70" height = "40" /> </a>
-    <a href="https://www.python.org" target="_blank"> <img src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"alt =" python "largura =" 70 "altura =" 40 "/> </a>
-     
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniloakira&show_icons=true&locale=en&layout=compact" alt="daniloakira" /></p>
 
-<p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=daniloakira&show_icons=true&locale=en&layout=compact" alt = "daniloakira" /> </p>
-
-<p>  <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=daniloakira&show_icons=true&locale=en" alt = "daniloakira" /> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daniloakira&show_icons=true&locale=en" alt="daniloakira" /></p>
 
