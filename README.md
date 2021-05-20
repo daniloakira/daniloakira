@@ -9,7 +9,7 @@
 
 <h3 align = "left"> Conecte-se comigo: </h3>
 <p align = "left">
-<a href="https://linkedin.com/in/danilo-okuda" target="blank"> <img align = "center" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "alt =" danilo-okuda "height =" 30 "width =" 40 "/> </a>
+<a href="https://linkedin.com/in/danilo-okuda" target="blank"> <img align = "center" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "alt =" danilo-okuda "height =" 30 "width =" 70 "/> </a>
 </ p>
 
 <h3 align = "left"> Idiomas e ferramentas: </h3>
