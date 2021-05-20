@@ -1,5 +1,5 @@
 <h1 align = "center"> Olá 👋, Eu sou Danilo Akira Okuda </h1>
-<h3 align = "center"> Entusiasta um desenvolvedor </h3>
+<h3 align = "center"> Entusiasta a desenvolvedor </h3>
 
 
 
@@ -26,7 +26,7 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src = "https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"alt =" mssql "width =" 70 "height =" 40 "/> </a>
   <a href =" https://www.mysql.com/ "target = "_ blank"> <img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt = "mysql" width = "70" height = "40" /> </a> 
   <a href="https://www.php.net" target="_blank"> <img src = "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"alt =" php "width =" 70 "height =" 40 "/> </a> 
-  <a href =" https://www.postgresql.org "target =" _blank "> <img src = "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt = "postgresql" width = "70" height = "40" /> < / a>
+  <a href =" https://www.postgresql.org "target =" _blank "> <img src = "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt = "postgresql" width = "70" height = "40" /> </a>
     <a href="https://www.python.org" target="_blank"> <img src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"alt =" python "largura =" 70 "altura =" 40 "/> </a>
      
 
