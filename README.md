@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniloakira&label=Profile%20views&color=0e75b6&style=flat" alt="daniloakira" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniloakira" alt="daniloakira" /></a> </p>
-<p><a img src="https://giphy.com/embed/Ss5zpSaKfhj2v04DpQ"></a></p>
+< img src="https://giphy.com/embed/Ss5zpSaKfhj2v04DpQ"/>
 
 - 🌱 Eu Estou Aprendendo **Java e Web Design**
 
