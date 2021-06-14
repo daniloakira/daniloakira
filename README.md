@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, Eu sou Danilo Akira Okuda</h1>
 <h3 align="center">Entusiasta a Desenvolvedor</h3>
-![img align="center"](https://media.giphy.com/media/Ss5zpSaKfhj2v04DpQ/giphy.gif)
+<p align="center" width="50" height="70">![img](https://media.giphy.com/media/Ss5zpSaKfhj2v04DpQ/giphy.gif)</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniloakira&label=Profile%20views&color=0e75b6&style=flat" alt="daniloakira" /> </p>
 
