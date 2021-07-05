@@ -21,5 +21,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daniloakira&show_icons=true&locale=en" alt="daniloakira" /></p>
 
-![Snake animation](https://github.com/daniloakira/daniloakira/blob/output/github-contribution-grid-snake.svg)
+[![Snake animation](https://github.com/daniloakira/daniloakira/blob/output/github-contribution-grid-snake.svg)]
 
