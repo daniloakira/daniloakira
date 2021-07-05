@@ -1,2 +1,6 @@
 - nome: gerar-jogo-cobra-de-grade-contribuição-do-github
   usa: Platane/snk@v0.0.18
+com :
+     github_user_name : daniloakira
+    
+    svg_out_path : dist / github-Contribution-grid-snake.svg
